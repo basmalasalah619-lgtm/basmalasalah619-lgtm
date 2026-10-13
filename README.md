@@ -52,12 +52,18 @@ Python for Everybody
 
 🤎 GitHub Stats
 
+🤎 **GitHub Stats**
+
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=F5EFE6&title_color=8B6F52&text_color=6B5847&icon_color=A98467" height="165" alt="GitHub Stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=F5EFE6&title_color=8B6F52&text_color=6B5847" height="165" alt="Most Used Languages"/>
+<img src="https://github-readme-stats.vercel.app/api?username=basmalasalah619-lgtm&show_icons=true&hide_border=true&bg_color=F5EFE6&title_color=8B6F52&text_color=6B5847&icon_color=A98467" height="165" alt="GitHub Stats"/>
+
+
+
 <br>
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=B59A7A&label=PROFILE+VIEWS" alt="Profile Views"/>
+
+<img src="https://komarev.com/ghpvc/?username=basmalasalah619-lgtm&style=flat-square&color=B59A7A&label=PROFILE+VIEWS" alt="Profile Views"/>
 </div>
+
 
 ⸻
 
